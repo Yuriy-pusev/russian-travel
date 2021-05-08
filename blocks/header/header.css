@@ -9,7 +9,7 @@
   margin: auto;
 }
 
-@media screen and (max-width: 1279px) {
+@media screen and (max-width: 1250px) {
   .header {
     max-width: 928px;
   }

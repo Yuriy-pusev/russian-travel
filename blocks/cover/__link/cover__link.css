@@ -11,9 +11,9 @@
   justify-content: center;
   align-items: center;
   background-color: #2A2C2F;
-  opacity: 0.3;
+  background-color: rgba(42, 44, 47, .3);
 }
 
 .cover__link:hover {
-    opacity: 0.8; 
+  background-color: rgba(42, 44, 47, .8);
 }

@@ -6,3 +6,8 @@
   text-decoration-line: underline;
   color: #FFFFFF;
 }
+
+.place__website-link:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}
